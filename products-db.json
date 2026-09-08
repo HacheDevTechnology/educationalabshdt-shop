@@ -1,0 +1,15 @@
+{
+  "brand": "EducationalLabsHDT",
+  "created_at": "2026-09-08T09:30:00-06:00",
+  "products": [
+    {
+      "id": "ELHDT-001",
+      "sku": "SIS-ACA-21D",
+      "name": "Sistema Académico 21 Días",
+      "type": "digital_bundle",
+      "price_usd": 27,
+      "status": "launching",
+      "landing_slug": "sistema-academico-21-dias"
+    }
+  ]
+}
