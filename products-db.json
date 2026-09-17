@@ -1,6 +1,6 @@
 {
   "brand": "EducationalLabsHDT",
-  "created_at": "2026-09-08T09:30:00-06:00",
+  "updated": "2026-09-16",
   "products": [
     {
       "id": "ELHDT-001",
@@ -8,8 +8,17 @@
       "name": "Sistema Académico 21 Días",
       "type": "digital_bundle",
       "price_usd": 27,
-      "status": "launching",
+      "status": "published",
       "landing_slug": "sistema-academico-21-dias"
+    },
+    {
+      "id": "ELHDT-002",
+      "sku": "ELHDT-READ-021",
+      "name": "Club de Lectura en Casa 21 días",
+      "type": "bundle",
+      "price_usd": 14.9,
+      "status": "published",
+      "landing_slug": "club-lectura-21"
     }
   ]
 }
